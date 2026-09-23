@@ -30,7 +30,7 @@ An interactive data analysis and conversational analytics web application built 
 ## 🚀 Live Demo
 
 Check out the live application on Streamlit Cloud:  
-👉 **[Enterprise AI Data Copilot](https://ai-data-copilot-7e8qwktkudqbjyzfjphna.streamlit.app)**
+👉 **[Enterprise AI Data Copilot](https://ai-data-copilot-7e8qwktkudqjbjyzfjphna.streamlit.app/)**
 
 ---
 
