@@ -1,10 +1,13 @@
 # 📊 Enterprise AI Data Copilot
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Groq-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 An interactive data analysis and conversational analytics web application built with **Streamlit**, **Pandas**, and **LangChain-Groq**. Upload CSV or Excel datasets to profile data, generate summary metrics, and run natural language queries with automated chart visualizations.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B)
-![LangChain](https://img.shields.io/badge/LangChain-Groq-green)
+
 
 ---
 
