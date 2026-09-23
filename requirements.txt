@@ -4,3 +4,4 @@ matplotlib
 seaborn
 langchain-groq
 python-dotenv
+openpyxl
